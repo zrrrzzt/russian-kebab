@@ -3,6 +3,8 @@
 
 # russian-kebab
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zrrrzzt/russian-kebab.svg)](https://greenkeeper.io/)
+
 Silly game. One of 6 kebabs is bad. Like really baaaaaaaaad.
 
 ## To play
