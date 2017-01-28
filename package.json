@@ -1,7 +1,7 @@
 {
   "name": "russian-kebab",
   "description": "Silly game. One of 6 kebabs is baaaaaaaad",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "private": true,
   "author": {
@@ -22,7 +22,7 @@
     "standard-fix": "standard --fix",
     "start": "micro -p 8080",
     "dev": "micro",
-    "now-deploy": "npm test && now --npm --alias"
+    "now-deploy": "npm test && now --npm && now --alias"
   },
   "keywords": [
     "microservice",
