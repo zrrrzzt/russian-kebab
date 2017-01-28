@@ -3,7 +3,7 @@
 
 # russian-kebab
 
-Silly game. One of 6 kebabs is bad. Like really baaaaaaaaad.
+Silly game. One of 6 kebabs is bad. Like really baaaaaaaaad!
 
 ## To play
 
