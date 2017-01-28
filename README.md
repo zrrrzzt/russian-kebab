@@ -7,7 +7,7 @@ Silly game. One of 6 kebabs is bad. Like really baaaaaaaaad!
 
 ## To play
 
-Go [here](https://russiankebab.somuch.party/html). Refresh page for another kebab
+Go [here](https://russiankebab.somuch.party/html).
 
 
 ## API
@@ -31,7 +31,6 @@ Renders result to html.
 ```bash
 $ curl https://russiankebab.somuch.party/html
 ```
-
 
 ## License
 [MIT](LICENSE)
