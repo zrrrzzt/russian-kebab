@@ -1,7 +1,7 @@
 {
   "name": "russian-kebab",
   "description": "Silly game. One of 6 kebabs is baaaaaaaad",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "MIT",
   "private": true,
   "author": {
@@ -11,7 +11,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=7.4.0"
+    "node": ">=7.8.0"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
@@ -20,9 +20,8 @@
     "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
     "setup": "npm install",
     "standard-fix": "standard --fix",
-    "start": "micro -p 8080",
-    "dev": "micro",
-    "now-deploy": "npm test && now --npm --alias"
+    "start": "micro",
+    "now-deploy": "npm test && now --npm && now alias"
   },
   "keywords": [
     "microservice",
@@ -37,16 +36,16 @@
   "bugs": {
     "url": "https://github.com/zrrrzzt/russian-kebab/issues"
   },
+  "homepage": "https://github.com/zrrrzzt/russian-kebab",
   "now": {
-    "aliases": [
-      "russiankebab.somuch.party"
+    "alias": [
+      "russiankebab.somuch.party",
+      "russian.kebabstudios.party"
     ],
     "env": {
       "NODE_ENV": "production"
-    }
-  },
-  "greenkeeper": {
-    "emails": false
+    },
+    "type": "npm"
   },
   "devDependencies": {
     "coveralls": "2.13.0",
