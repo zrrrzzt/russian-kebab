@@ -56,6 +56,6 @@
   "dependencies": {
     "knuth-shuffle": "1.0.1",
     "marked": "0.3.6",
-    "micro": "8.0.3"
+    "micro": "8.0.4"
   }
 }
