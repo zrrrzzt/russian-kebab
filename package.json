@@ -49,13 +49,13 @@
   },
   "devDependencies": {
     "coveralls": "3.0.0",
-    "nsp": "2.8.1",
+    "nsp": "3.1.0",
     "standard": "10.0.3",
-    "tap": "10.7.2"
+    "tap": "11.0.1"
   },
   "dependencies": {
     "knuth-shuffle": "1.0.8",
-    "marked": "0.3.6",
+    "marked": "0.3.12",
     "micro": "9.1.0"
   }
 }
