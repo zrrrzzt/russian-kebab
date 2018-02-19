@@ -55,7 +55,7 @@
     "coveralls": "3.0.0",
     "micro-dev": "2.2.0",
     "nsp": "3.2.1",
-    "standard": "10.0.3",
+    "standard": "11.0.0",
     "tap": "11.1.0"
   },
   "dependencies": {
