@@ -33,6 +33,5 @@ $ curl https://russiankebab.somuch.party/html
 ```
 
 ## License
-[MIT](LICENSE)
 
-![alt text](https://robots.kebabstudios.party/russian-kebab.png "Robohash image of russian-kebab")
+[MIT](LICENSE)
