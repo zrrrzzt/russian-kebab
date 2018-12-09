@@ -38,19 +38,6 @@
     "url": "https://github.com/zrrrzzt/russian-kebab/issues"
   },
   "homepage": "https://github.com/zrrrzzt/russian-kebab#readme",
-  "now": {
-    "alias": [
-      "russiankebab.somuch.party",
-      "russian.kebabstudios.party"
-    ],
-    "env": {
-      "NODE_ENV": "production"
-    },
-    "type": "npm",
-    "engines": {
-      "node": "10.14.1"
-    }
-  },
   "devDependencies": {
     "coveralls": "3.0.2",
     "micro-dev": "3.0.0",

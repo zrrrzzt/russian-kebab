@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "alias": [
+    "russiankebab.somuch.party",
+    "russian.kebabstudios.party"
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "builds": [
+    { "src": "index.js", "use": "@now/node" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.js" }
+  ]
+}
