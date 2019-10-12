@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/zrrrzzt/russian-kebab#readme",
   "devDependencies": {
-    "coveralls": "3.0.6",
+    "coveralls": "3.0.7",
     "micro-dev": "3.0.0",
     "standard": "14.3.1",
     "tap": "14.6.9"
