@@ -42,7 +42,7 @@
     "coveralls": "3.0.7",
     "micro-dev": "3.0.0",
     "standard": "14.3.1",
-    "tap": "14.7.0"
+    "tap": "14.7.1"
   },
   "dependencies": {
     "knuth-shuffle": "1.0.8",
