@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "knuth-shuffle": "1.0.8",
-    "marked": "4.0.12",
+    "marked": "10.0.0",
     "micro": "9.3.4"
   }
 }
